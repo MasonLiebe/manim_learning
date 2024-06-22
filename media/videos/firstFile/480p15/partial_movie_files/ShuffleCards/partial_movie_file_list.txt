@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/1185818338_1472842557_2358810818.mp4'
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/624642324_1959358871_1852685417.mp4'
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/624642324_3476658981_4227516557.mp4'
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/624642324_1959358871_1516309958.mp4'
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/624642324_1955990979_574630669.mp4'
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/624642324_1959358871_2520239399.mp4'
+file 'file:/Users/masonliebe/Desktop/playground/manim_learning/media/videos/firstFile/480p15/partial_movie_files/ShuffleCards/624642324_1141282389_1015782983.mp4'
